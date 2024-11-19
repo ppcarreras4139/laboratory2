@@ -49,4 +49,6 @@ $empleado1 = new Empleado("Carlos Pérez", 2500, 6);
 // Mostrar el sueldo final después de los cálculos
 $empleado1->mostrarSueldoFinal();
 
+//volvemos a empezar
+
 ?>
