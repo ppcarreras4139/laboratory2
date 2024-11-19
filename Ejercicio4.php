@@ -51,4 +51,6 @@ $empleado1->mostrarSueldoFinal();
 
 //agrego seguno metodo o fragmento de codigo
 
+// agrego otro metodo o nuevo codigo pero con bug
+
 ?>
